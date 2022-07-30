@@ -14,7 +14,8 @@ Our CNN (Convolutional Neural Network) Algorithm process the image and classify 
 ## Install Softwares
 1. Python
 2. Anaconda
-and some dependencies
+
+and the following dependencies :
 ```
 pip install streamlit
 pip install tensorflow
