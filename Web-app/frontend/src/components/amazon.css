@@ -1,0 +1,12 @@
+.bg-orange{
+  background-color: rgb(255,153,0);
+}
+.black{
+  background-color: rgb(19, 25, 33);
+}
+.link{
+  color: rgb(255,153,0);
+}
+.link:hover{
+  color: rgb(255,153,0);
+}
