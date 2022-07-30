@@ -1,4 +1,4 @@
-# amazon eCommerce Platform
+# amazon eCommerce Platform    [Open deployment](https://cool-as-code.herokuapp.com/)
 
 <img width="843" alt="image" src="https://user-images.githubusercontent.com/79476272/181875340-0f639332-0b55-4078-a720-4c672eccf66d.png">
 <img width="839" alt="image" src="https://user-images.githubusercontent.com/79476272/181875361-58627bc2-ff66-42c8-9ea2-f4a065907931.png">
