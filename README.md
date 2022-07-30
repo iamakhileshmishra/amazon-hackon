@@ -1,8 +1,8 @@
 # amazon-hackon Project Submission by cool_as_code
 
-We as a team worked on the theme Customer Trust so that to increase the trust of the customer on Amazon as a Brand.
+We as a team have worked on the theme Customer Trust to increase the trust of the customer on the Amazon brand.
 
-For this we worked on 3 Major Ideas that can increase this trust. 
+For this we have worked on 3 Major Ideas that can increase this trust. 
 This involves identifying and removing counterfeit products off the shelf, ensuring high value items are not swapped along the way, enabling checkpoints that goods are not damaged enroute.
 
 Implementation:- 
