@@ -10,7 +10,7 @@ Implementation:-
 2. Resolving Enroute Damage
 3. Resolving Enroute swaps
 
-### For More Details regading Idea and Implementation Refer to this ppt [cool_as_code](https://docs.google.com/presentation/d/1vquKEo5LQ4xLaKzZgG7SK8mUna8RDjJ3/edit?usp=sharing&ouid=114368073471565357702&rtpof=true&sd=true)
+### For More Details regarding Idea and Implementation Refer to this ppt [cool_as_code](https://docs.google.com/presentation/d/1vquKEo5LQ4xLaKzZgG7SK8mUna8RDjJ3/edit?usp=sharing&ouid=114368073471565357702&rtpof=true&sd=true)
 
 ## Git Commands to Clone 
 
