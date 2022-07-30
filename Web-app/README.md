@@ -86,27 +86,22 @@ john@gmail.com (Customer)
 ```
 # While Checkout choose Credit Card Payment Option And Proceed as given below
 ```
-Sample Credit Card Details for Dummy Payment 
+## Sample Credit Card Details for Dummy Payment 
 
 Card Number 4929711230757389
 Expiry Date : Any Future Date (ex:- 10/25)
 CVV - 123
 
-Shipping Address Any US Address 
+## Shipping Address Any US Address 
 
 Ex-
 Street:  2935 Richland Avenue
-
 City:  Spring
-
 State/province/area:   Texas
-
 Phone number  281-364-8576
-
+Email :- random@gmail.com
 Zip code  77386
-
 Country calling code  +1
-
 Country  United States
 
 ```
