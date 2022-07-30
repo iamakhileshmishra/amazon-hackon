@@ -28,7 +28,9 @@ git clone git@github.com:iamakhileshmishra/amazon-hackon.git
 2. Machine-Learning-Damaged-Box-Classifier
 
 ## Both the folders are of different part
+
 The Web-app folder contains the Amazon Like Shopping Website where we have resolved the Counterfiet Issue and Enroute Swap issue.
+
 The ML folder is for the Enroute Damage Identiication.
 
 ## To Run the Project Locally
