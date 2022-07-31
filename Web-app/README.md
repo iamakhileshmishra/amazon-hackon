@@ -73,9 +73,10 @@ npm run data:import
 npm run data:destroy
 ```
 
-```
-Sample User Logins
 
+### Sample User Logins
+
+```
 admin@gmail.com (Admin)
 123456
 
@@ -84,6 +85,37 @@ john@gmail.com (Customer)
 
 
 ```
+## Some Valid Product Key to test the right product listing
+
+```
+9334107860aacceh
+
+2623456780aacdef
+
+4634667890ibndef
+
+7034567890zbcgui
+
+1234283740abcrgf
+
+2471527890abcsfr
+
+7264783890qbswef
+
+6781273990abddhf
+
+6845478904abvfdf
+
+1268855204athdef
+
+1234567345abidef
+
+964567890dfsssef
+
+2584567672sxadef
+
+```
+
 # While Checkout choose Credit Card Payment Option And Proceed as given below
 ```
 ## Sample Credit Card Details for Dummy Payment 
